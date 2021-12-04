@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe by Dhruv</string>
+
+
+    <string name="Player2_score">Player 2:0</string>
+    <string name="Player1_score">Player 1: 0</string>
+    <string name="score_board_string">Score Board</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="score_board_orig_string">score board</string>
+    <string name="player_1_0_orig_string">Player 1:0</string>
+    <string name="player_2_0_orig_string">Player 2:0</string>
+</resources>
